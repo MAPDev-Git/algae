@@ -23,7 +23,6 @@ export default function Pricing() {
             
             <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '12px', marginBottom: '2rem', flexGrow: 1 }}>
               <li style={{ display: 'flex', gap: '8px' }}><span>✓</span> Standard Shipping ($4.95)</li>
-              <li style={{ display: 'flex', gap: '8px' }}><span>✓</span> 90-Day Money-Back Guarantee</li>
             </ul>
             
             <a href="#checkout" className="btn-primary-silver" style={{ width: '100%', padding: '16px', fontSize: '1rem' }}>BUY 1 BOTTLE NOW</a>
@@ -50,7 +49,6 @@ export default function Pricing() {
             <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '12px', marginBottom: '2.5rem', flexGrow: 1, fontWeight: 500 }}>
               <li style={{ display: 'flex', gap: '8px' }}><span>✓</span> <strong>FREE</strong> Expedited U.S. Shipping</li>
               <li style={{ display: 'flex', gap: '8px' }}><span>✓</span> <strong>FREE</strong> Bone Health E-Book</li>
-              <li style={{ display: 'flex', gap: '8px' }}><span>✓</span> 90-Day Money-Back Guarantee</li>
             </ul>
             
             <a href="#checkout" className="btn-primary-silver" style={{ width: '100%', padding: '18px', fontSize: '1.05rem' }}>CLAIM 5 BOTTLES</a>
@@ -74,7 +72,6 @@ export default function Pricing() {
             
             <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '12px', marginBottom: '2rem', flexGrow: 1 }}>
               <li style={{ display: 'flex', gap: '8px' }}><span>✓</span> <strong>FREE</strong> Standard U.S. Shipping</li>
-              <li style={{ display: 'flex', gap: '8px' }}><span>✓</span> 90-Day Money-Back Guarantee</li>
             </ul>
             
             <a href="#checkout" className="btn-primary-silver" style={{ width: '100%', padding: '16px', fontSize: '1rem' }}>CLAIM 3 BOTTLES</a>

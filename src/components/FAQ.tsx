@@ -24,10 +24,6 @@ export default function FAQ() {
     {
       q: "Is ALGAE tested for purity and heavy metals?",
       a: "Yes. Every batch of ALGAE is manufactured in an FDA-registered, cGMP-certified facility in the USA. We conduct rigorous third-party laboratory testing for heavy metals (lead, mercury, cadmium, arsenic), purity, and potency to ensure complete safety."
-    },
-    {
-      q: "What if ALGAE doesn't work for me?",
-      a: "Every order is protected by our 90-Day Unconditional 100% Money-Back Guarantee. If you are not completely satisfied with your results, simply contact our support team within 90 days for a prompt, courteous refund—even if the bottles are empty."
     }
   ];
 

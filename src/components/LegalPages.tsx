@@ -25,7 +25,7 @@ Welcome to ALGAE™. By using our website and purchasing our products, you agree
 Statements made about our products have not been evaluated by the FDA. Our products are not intended to diagnose, treat, cure, or prevent any disease.
 
 2. Orders and Returns
-We offer a 90-Day Money-Back Guarantee. If you are not satisfied, contact us within 90 days for a full refund.
+For questions about orders, please contact our support team. Return policies will be evaluated on a case-by-case basis.
 
 3. Intellectual Property
 All content on this site is the property of ALGAE™ and protected by copyright laws.`

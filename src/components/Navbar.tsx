@@ -2,7 +2,7 @@ export default function Navbar() {
   return (
     <>
       <div style={{ background: 'var(--brand-dark-slate)', color: 'white', textAlign: 'center', padding: '10px', fontSize: '0.875rem', fontWeight: 500 }}>
-        🌿 LIMITED TIME OFFER: Save up to 50% On Plant-Based Marine Calcium • Free U.S. Shipping On Multi-Packs • 90-Day Guarantee
+        🌿 LIMITED TIME OFFER: Save up to 50% On Plant-Based Marine Calcium • Free U.S. Shipping On Multi-Packs
       </div>
       <header style={{ 
         position: 'sticky', top: 0, zIndex: 50, 
@@ -10,11 +10,9 @@ export default function Navbar() {
         borderBottom: '1px solid var(--silver-light)' 
       }}>
         <div className="container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', height: '70px' }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
+          <a href="https://algae.utilafull.com/" style={{ display: 'flex', alignItems: 'center', gap: '12px', textDecoration: 'none' }}>
             <img src="/Logo.svg" alt="ALGAE Logo" style={{ height: '32px' }} />
-            <span style={{ fontSize: '1.5rem', fontWeight: 800, letterSpacing: '-0.5px' }}>ALGAE™</span>
-            <span style={{ color: 'var(--text-muted)', fontSize: '0.875rem', display: 'none' }} className="nav-tagline">| Plant-Based Ocean Nutrition</span>
-          </div>
+          </a>
           
           <nav style={{ display: 'flex', gap: '24px', alignItems: 'center' }}>
             <a href="#science" style={{ textDecoration: 'none', color: 'var(--text-primary)', fontWeight: 500, fontSize: '0.95rem' }}>The Science</a>

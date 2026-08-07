@@ -41,7 +41,7 @@ export default function Hero() {
                 CLAIM YOUR BOTTLE TODAY
               </a>
               <p className="text-muted" style={{ fontSize: '0.875rem' }}>
-                🔒 256-Bit Encrypted Checkout • 90-Day Guarantee
+                🔒 256-Bit Encrypted Checkout
               </p>
             </div>
             
