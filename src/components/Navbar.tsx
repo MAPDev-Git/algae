@@ -10,7 +10,8 @@ export default function Navbar() {
         borderBottom: '1px solid var(--silver-light)' 
       }}>
         <div className="container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', height: '70px' }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
+            <img src="/Logo.svg" alt="ALGAE Logo" style={{ height: '32px' }} />
             <span style={{ fontSize: '1.5rem', fontWeight: 800, letterSpacing: '-0.5px' }}>ALGAE™</span>
             <span style={{ color: 'var(--text-muted)', fontSize: '0.875rem', display: 'none' }} className="nav-tagline">| Plant-Based Ocean Nutrition</span>
           </div>
